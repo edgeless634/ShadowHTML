@@ -1,0 +1,1 @@
+cat target.html | base64 > b.txt
